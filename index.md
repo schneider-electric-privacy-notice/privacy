@@ -1,1 +1,1 @@
-[MySchneider App](test.html)
+[MySchneider App](MySchneider.html)
